@@ -1,0 +1,14 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Flashcard-Generator, Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hossein Bakhtiyari",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.0.4"
+  }
+}
