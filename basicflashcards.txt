@@ -1,0 +1,3 @@
+Question:Is javascript case sensitive? | Answer:Yes
+Question:How are single line comments started? | Answer://
+Question:Can a variables value change during the execution of a script? | Answer:YesQuestion:Who created the Javascript | Answer:Brendan Eich

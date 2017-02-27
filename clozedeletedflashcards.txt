@@ -1,0 +1,3 @@
+Question:^________^ are containers for storing information | Answer:Variables
+Question:Two differnt kinds of loops in javascript are for and ^________^. | Answer:while
+Question: If you add a string and a number, the result will be a ^________^. | Answer:stringQuestion:Variables declared without a value will have the ^________^ value | Answer:undefined
